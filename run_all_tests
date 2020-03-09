@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd ./services/user-management
+npm test
+cd -
